@@ -1,6 +1,6 @@
 # hunar
 
-A new Flutter project.
+Hunar Labour Service Platform
 
 ## Getting Started
 
